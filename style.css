@@ -1,0 +1,45 @@
+* {
+    font-family: sans-serif;
+    outline: none;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: center;
+    background-color: gray;
+}
+
+.main {
+    width: 80vh;
+    height: 50vh;
+    border: 1px solid black;
+    text-align: center;
+    margin: auto;
+    margin-top: 50px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+img {
+    width: 15vh;
+    height: 15vh;
+    border-radius: 50%;
+    border: 2px solid black;
+}
+
+button {
+    width: 3vh;
+    height: 3vh;
+    border-radius: 50%;
+    border: 1px solid black;
+    background: white;
+    cursor: pointer;
+}
+
+#btn-1 {
+    background-color: black;
+}
+
+#img {
+    margin-top: 20px;
+}
